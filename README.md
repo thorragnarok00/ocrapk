@@ -1,4 +1,4 @@
-# OCR APK (Upload or Take Photo) using React Native and Android Studio
+# OCR APK using React Native and Android Studio
 
 ## Activity in Mobile Development 2
 
